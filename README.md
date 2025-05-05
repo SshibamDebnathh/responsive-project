@@ -13,5 +13,6 @@ Clone the repo and run:
 ```bash
 npm install
 npm run dev
-![Homepage Screenshot](public/homepage.png)
+![Homepage Screenshot](https://github.com/your-username/your-repo-name/raw/main/public/homepage.png)
+
 
