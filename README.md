@@ -13,3 +13,4 @@ Clone the repo and run:
 ```bash
 npm install
 npm run dev
+![image](https://github.com/user-attachments/assets/591d7aea-e240-43f4-8019-1a1509d22033)
