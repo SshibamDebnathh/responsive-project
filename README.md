@@ -7,6 +7,11 @@ This is a fully responsive multi-page website built with React, React Router, an
 - React Router
 - Tailwind CSS
 
+## Screenshot
+<!-- <img src='./public/homepage.png' width='100%' > -->
+<img src='./public/homepage.png' width='100%' >
+<!-- <img src='./public/homepage.png' width='100%' > -->
+
 ## 📦 Setup
 Clone the repo and run:
 
@@ -14,8 +19,7 @@ Clone the repo and run:
 npm install
 npm run dev
 
-## Screenshot
-<img src='./public/homepage.png' width='100%' >
+
 
 
 
