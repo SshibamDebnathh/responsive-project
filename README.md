@@ -15,6 +15,7 @@ npm install
 npm run dev
 
 ## Screenshot
-![Homepage Screenshot](https://github.com/SshibamDebnathh/responsive-project/raw/main/public/homepage.png)
+<img src='./public/homepage.png' width='100%' >
+
 
 
